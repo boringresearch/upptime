@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://boringresearch.github.io/krai-issue-status/
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://boringresearch.github.io/issue-status/
+  - name: Gaelic News
+    url: https://boringresearch.github.io/Gaelic_research/new
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
